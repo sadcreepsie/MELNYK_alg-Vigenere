@@ -1,0 +1,7 @@
+# Algoritmo di Vigenere
+
+ESERCIZIO GENERICO INTERDISCIPLINARE IN JAVA
+
+Estendendo l'esercizio di Cesare implementare in Java la tecnica di crittografia di Vigenere.
+Si ricorda che basta modificare la lunghezza della chiave numerica che risulta essere L=1 in Cesare mentre in Vigenere
+può avere una lunghezza maggiore (potete usare 4/5 valori)
